@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiceWar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+432b1473f88e106a5d00be2a598e79bd5777d315")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiceWar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiceWar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
