@@ -1,0 +1,17 @@
+c:\Users\DKksr\source\repos\DiceWar\bin\Debug\net8.0\DiceWar.exe
+c:\Users\DKksr\source\repos\DiceWar\bin\Debug\net8.0\DiceWar.deps.json
+c:\Users\DKksr\source\repos\DiceWar\bin\Debug\net8.0\DiceWar.runtimeconfig.json
+c:\Users\DKksr\source\repos\DiceWar\bin\Debug\net8.0\DiceWar.dll
+c:\Users\DKksr\source\repos\DiceWar\bin\Debug\net8.0\DiceWar.pdb
+c:\Users\DKksr\source\repos\DiceWar\bin\Debug\net8.0\PcgRandom.dll
+c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\DiceWar.csproj.AssemblyReference.cache
+c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\DiceWar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\DiceWar.AssemblyInfoInputs.cache
+c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\DiceWar.AssemblyInfo.cs
+c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\DiceWar.csproj.CoreCompileInputs.cache
+c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\DiceWar.csproj.Up2Date
+c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\DiceWar.dll
+c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\refint\DiceWar.dll
+c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\DiceWar.pdb
+c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\DiceWar.genruntimeconfig.cache
+c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\ref\DiceWar.dll

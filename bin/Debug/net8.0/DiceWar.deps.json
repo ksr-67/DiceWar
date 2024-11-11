@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DiceWar/1.0.0": {
+        "dependencies": {
+          "PcgRandom": "1.2.0"
+        },
+        "runtime": {
+          "DiceWar.dll": {}
+        }
+      },
+      "PcgRandom/1.2.0": {
+        "runtime": {
+          "lib/net6.0/PcgRandom.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DiceWar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PcgRandom/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-j3NR8m5GN14us+8NG2hZprqfKiJKBdm/zL/o9cuUvL2XvRGWUIunsTu4Wx6ehMRC4lvahvKMKuHOh0LULApGUA==",
+      "path": "pcgrandom/1.2.0",
+      "hashPath": "pcgrandom.1.2.0.nupkg.sha512"
+    }
+  }
+}
