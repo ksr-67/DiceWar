@@ -15,3 +15,4 @@ c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\refint\DiceWar.dll
 c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\DiceWar.pdb
 c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\DiceWar.genruntimeconfig.cache
 c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\ref\DiceWar.dll
+c:\Users\DKksr\source\repos\DiceWar\obj\Debug\net8.0\DiceWar.sourcelink.json

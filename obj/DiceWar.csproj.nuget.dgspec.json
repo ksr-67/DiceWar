@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DKksr\\source\\repos\\DiceWar\\DiceWar.csproj": {}
+    "c:\\Users\\DKksr\\source\\repos\\DiceWar\\DiceWar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DKksr\\source\\repos\\DiceWar\\DiceWar.csproj": {
+    "c:\\Users\\DKksr\\source\\repos\\DiceWar\\DiceWar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DKksr\\source\\repos\\DiceWar\\DiceWar.csproj",
+        "projectUniqueName": "c:\\Users\\DKksr\\source\\repos\\DiceWar\\DiceWar.csproj",
         "projectName": "DiceWar",
-        "projectPath": "C:\\Users\\DKksr\\source\\repos\\DiceWar\\DiceWar.csproj",
+        "projectPath": "c:\\Users\\DKksr\\source\\repos\\DiceWar\\DiceWar.csproj",
         "packagesPath": "C:\\Users\\DKksr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DKksr\\source\\repos\\DiceWar\\obj\\",
+        "outputPath": "c:\\Users\\DKksr\\source\\repos\\DiceWar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

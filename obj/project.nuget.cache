@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/zaxVxeRjLI=",
+  "dgSpecHash": "3z5FSlo/pQY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DKksr\\source\\repos\\DiceWar\\DiceWar.csproj",
+  "projectFilePath": "c:\\Users\\DKksr\\source\\repos\\DiceWar\\DiceWar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DKksr\\.nuget\\packages\\pcgrandom\\1.2.0\\pcgrandom.1.2.0.nupkg.sha512"
   ],
